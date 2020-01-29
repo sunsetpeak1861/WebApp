@@ -1,0 +1,74 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{120, 268}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "plus",
+          "border_width" : 1,
+          "frame" : "{{120, 268}, {80, 32}}",
+          "title" : "+",
+          "uuid" : "2D89E8D2-FA9E-4CF2-9882-8CE82718EE46",
+          "class" : "Button",
+          "corner_radius" : 1,
+          "border_color" : "RGBA(0.962722,0.962722,0.962722,1.000000)",
+          "background_color" : "RGBA(0.932175,0.932175,0.932175,1.000000)",
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{140, 156}, {42, 36}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label1",
+          "flex" : "",
+          "frame" : "{{85, 268}, {150, 32}}",
+          "uuid" : "9F34F662-52BF-4C65-BB8C-3B27B59BA6C9",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "0",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{120, 317}, {80, 33}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "clear",
+          "frame" : "{{120, 268}, {80, 32}}",
+          "title" : "Clear",
+          "uuid" : "27BE0C60-3FD5-4055-BAFA-15584DB24284",
+          "class" : "Button",
+          "background_color" : "RGBA(0.925386,0.925386,0.925386,1.000000)",
+          "name" : "button2",
+          "font_size" : 15
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {320, 568}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
