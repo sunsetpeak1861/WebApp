@@ -2,9 +2,9 @@
 
 ## Description
 - an app to order items in a cafe shop.
-(sorry but only in Japanese)
-The ideas are from Progate.com so have a look if you are interested in it.
-See the reference below.
+- (sorry but only in Japanese)
+- The ideas are from Progate.com so have a look if you are interested in it.
+- See the reference below.
 
 
 ![PNG](cafe_order.png)
