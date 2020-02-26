@@ -7,7 +7,7 @@ The ideas are from Progate.com so have a look if you are interested in it.
 See the reference below.
 
 
-![png](スクリーンショット 2020-02-26 11.32.19.png)
+![PNG](cafe_order.png)
 
 ## Author
 - sunsetpeak1861
