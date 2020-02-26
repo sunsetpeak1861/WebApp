@@ -1,4 +1,9 @@
-![png](output_3_0.png)
+- In this repo, there are python apps below:  	
+  
+-   Count 	
+- 	Progate/Python3 	(Cafe Ordering App)
+- 	TimerWithPython
+
 
 # COUNT
 
