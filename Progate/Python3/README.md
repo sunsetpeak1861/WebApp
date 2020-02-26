@@ -1,4 +1,4 @@
-# Python3 (Cafe ordering app)
+# Python3 (Cafe Ordering App)
 
 ## Description
 - an app to order items in a cafe shop.
